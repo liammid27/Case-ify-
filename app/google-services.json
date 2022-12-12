@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167635542046",
+    "project_id": "opsc-task-d66df",
+    "storage_bucket": "opsc-task-d66df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167635542046:android:cb3a1aaa3edc30a5c20e0f",
+        "android_client_info": {
+          "package_name": "com.example.opsctask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167635542046-p94aqb9ekt7mumi7grtpf2d4muur4nut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKOcItbg120ATjOrFu5k2GGTVCrDJuvzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167635542046-p94aqb9ekt7mumi7grtpf2d4muur4nut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

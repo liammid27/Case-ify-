@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">OPSC Task</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="prompt_item_name">Please name your new item:</string>
+    <string name="prompt_item_picture">Please take a picture of your new item:</string>
+    <string name="ellipses">…</string>
+    <string name="take_picture_prompt">TAKE PICTURE</string>
+
+    <string name="add_item_prompt">ADD ITEM</string>
+    <string name="piss_off_errors">are you happy now?</string>
+    <string name="create_new_category">CREATE NEW CATEGORY</string>
+    <string name="category_name">Category Name</string>
+    <string name="item_goal">Item Goal</string>
+    <string name="category_description">Category Description</string>
+=======
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="password">Password</string>
+    <string name="add_category">ADD CATEGORY</string>
+    <string name="add_a_description_for_your_item">Add a description for your item></string>
+</resources>

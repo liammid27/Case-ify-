@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documents/Vega/3rd Year/OPSC/OPSC-Task/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.324" />
+        <entry key="..\:/Documents/Vega/3rd Year/OPSC/OPSC-Task/app/src/main/res/drawable/ic_case_ify_logo.xml" value="0.324" />
+        <entry key="..\:/Documents/Vega/3rd Year/OPSC/OPSC-Task/app/src/main/res/drawable/ic_launcher_background.xml" value="0.324" />
+        <entry key="..\:/Documents/Vega/3rd Year/OPSC/OPSC-Task/app/src/main/res/font/.xml" value="0.2740740740740741" />
+        <entry key="..\:/Documents/Vega/3rd Year/OPSC/OPSC-Task/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.23560910307898258" />
+        <entry key="..\:/Documents/Vega/3rd Year/OPSC/OPSC-Task/app/src/main/res/layout-w936dp/activity_login.xml" value="0.23087431693989072" />
+        <entry key="..\:/Documents/Vega/3rd Year/OPSC/OPSC-Task/app/src/main/res/layout/activity_login.xml" value="0.3061594202898551" />
+        <entry key="..\:/Documents/Vega/3rd Year/OPSC/OPSC-Task/app/src/main/res/layout/add_item.xml" value="0.1092436974789916" />
+        <entry key="..\:/Documents/Vega/3rd Year/OPSC/OPSC-Task/app/src/main/res/layout/camerapage.xml" value="0.30434782608695654" />
+        <entry key="..\:/Documents/Vega/3rd Year/OPSC/OPSC-Task/app/src/main/res/layout/collection_view.xml" value="0.25" />
+        <entry key="..\:/Documents/Vega/3rd Year/OPSC/OPSC-Task/app/src/main/res/layout/create_category.xml" value="0.26132246376811596" />
+        <entry key="..\:/Documents/Vega/3rd Year/OPSC/OPSC-Task/app/src/main/res/layout/create_collection.xml" value="0.1585144927536232" />
+        <entry key="..\:/Documents/Vega/3rd Year/OPSC/OPSC-Task/app/src/main/res/layout/list_view_layout.xml" value="0.26132246376811596" />
+        <entry key="..\:/Documents/Vega/3rd Year/OPSC/OPSC-Task/app/src/main/res/layout/loginpage.xml" value="0.25" />
+        <entry key="..\:/Documents/Vega/3rd Year/OPSC/OPSC-Task/app/src/main/res/layout/main_activity.xml" value="0.25" />
+        <entry key="..\:/Documents/Vega/3rd Year/OPSC/OPSC-Task/app/src/main/res/layout/show_collection.xml" value="0.30434782608695654" />
+        <entry key="..\:/Documents/Vega/3rd Year/OPSC/OPSC-Task/app/src/main/res/layout/show_item.xml" value="0.25" />
+        <entry key="..\:/Documents/Vega/3rd Year/OPSC/OPSC-Task/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.136" />
+        <entry key="..\:/Users/Liam/Documents/GitHub/OPSC-Task/app/src/main/res/layout/add_item.xml" value="0.25" />
+        <entry key="..\:/Users/Liam/Documents/GitHub/OPSC-Task/app/src/main/res/layout/camerapage.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Liam/Documents/GitHub/OPSC-Task/app/src/main/res/layout/create_collection.xml" value="0.33" />
+        <entry key="..\:/Users/Liam/Documents/GitHub/OPSC-Task/app/src/main/res/layout/friends_page.xml" value="0.25" />
+        <entry key="..\:/Users/Liam/Documents/GitHub/OPSC-Task/app/src/main/res/layout/list_view_layout.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Liam/Documents/GitHub/OPSC-Task/app/src/main/res/layout/loginpage.xml" value="0.221875" />
+        <entry key="..\:/Users/Liam/Documents/GitHub/OPSC-Task/app/src/main/res/layout/main_activity.xml" value="0.221875" />
+        <entry key="..\:/Users/Liam/Documents/GitHub/OPSC-Task/app/src/main/res/layout/show_collection.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/Liam/Documents/GitHub/OPSC-Task/app/src/main/res/layout/show_item.xml" value="0.22239583333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
